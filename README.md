@@ -32,7 +32,7 @@ A simple yet effective Python automation script that sends WhatsApp group messag
 
 | Day       | Time   | Message Type                     |
 |-----------|--------|----------------------------------|
-| Thursday  | 6:30PM | WSR heads-up reminder            |
+| Friday    | 12:37AM| WSR heads-up reminder            |
 | Friday    | 9:30AM | Friendly morning ping            |
 | Friday    | 1:00PM | Afternoon follow-up              |
 | Friday    | 5:00PM | Last call reminder before EOD    |
